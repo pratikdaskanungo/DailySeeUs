@@ -1,0 +1,17 @@
+body{
+    background-image: url("photos/pexels-klaus-nielsen-6294465.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+table{
+    color: cyan;
+
+}
+h2{
+    background-color: gray;
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    font-family: Bahnschrift;
+}
